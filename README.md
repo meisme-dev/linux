@@ -1,4 +1,4 @@
-#Reasons to use GNU/Linux:
+# Reasons I use GNU/Linux:
 
 - Opensource nature. You can do whatever you want. You can make sure your kernel isn't spyware infested like Windows or Mac OS (could be), and if you find a bug, you can improve the code yourself, which results in better code.
 
