@@ -18,6 +18,7 @@ websites for software! No more fear of getting a virus from a hacked or maliciou
 system with a single click! 
 
 - Community. Other than a few elitists (mostly in old forums), the Linux community welcomes new users, and helps them with almost anything! If you are lost, you can expect people to help you right away! Communities to get started: r/LinuxForNoobs, AskUbuntu, YouTube.
+Warning: I am not responsible for any of the content on these websites. 
 
 
 ### These reasons are why I personally prefer GNU/Linux to other operating system! Thank you for reading, and I hope you learned something new!
