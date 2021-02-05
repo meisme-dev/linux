@@ -21,7 +21,7 @@ system with a single click!
 Warning: I am not responsible for any of the content on these websites. 
 
 
-### These reasons are why I personally prefer GNU/Linux to other operating system! Thank you for reading, and I hope you learned something new!
+### These reasons are why I personally prefer GNU/Linux to other operating systems! Thank you for reading, and I hope you learned something new!
 
 
 Legal disclaimer:
